@@ -1,2 +1,3 @@
-Flask
-numpy
+kivy>=2.2.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
