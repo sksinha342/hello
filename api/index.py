@@ -64,4 +64,4 @@ def generate():
     return send_file(img_io, mimetype='image/jpeg', as_attachment=True, download_name="Filled_Form.jpg")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.debug=True
