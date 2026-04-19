@@ -1,4 +1,3 @@
-Flask
-Pillow
-indic-unicode-reshaper
-numpy
+Flask==2.3.3
+Pillow==10.0.0
+indic-unicode-reshaper==0.1.0
