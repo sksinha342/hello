@@ -1,2 +1,4 @@
 Flask
+Pillow
+indic-unicode-reshaper
 numpy
